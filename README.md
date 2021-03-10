@@ -1,10 +1,10 @@
 # Scala Assignment 2
 
-- ##files
-    * ###Stack.scala
+- ## files
+    * ### Stack.scala
         Contains Stack Implementation with immutable list
-    * ###Queue.scala
+    * ### Queue.scala
         Contains Queue Implementation with immutable list
-    * ###ListOperationsDemo
+    * ### ListOperationsDemo
         List questions
 
